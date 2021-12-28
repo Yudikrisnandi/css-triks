@@ -121,10 +121,18 @@ Untuk mengatur posisi element. Modern layouting biasanya menggunakan Flexbox dan
 - grid-column : 1 / span 3
 - grid-area
 
-# Tugas 
+# Tugas: Project 1
 Membuat tampilan website seperti pada design berikut [ini](https://www.figma.com/file/iR3NOdmsECdSOhx1WjDd87/project-one?node-id=0%3A1)
 
 ### Petunjuk
-1. Dowload assests [di sini](https://github.com/Yudikrisnandi/html-css-course)
+1. Download assets di folder images-1 
 2. Buat sebuah folder project dengan nama `project-one'
+3. Di dalam project buat file ``` index.html``` dan ```styles.css```
+
+# Tugas: Project 2
+Membuat tampilan website seperti pada design berikut [ini](https://www.figma.com/file/UDYNJEIn0LJRfJrgKIylTx/html-css-project-2)
+
+### Petunjuk
+1. Dowload di folder images-2 
+2. Buat sebuah folder project dengan nama `project-two'
 3. Di dalam project buat file ``` index.html``` dan ```styles.css```
