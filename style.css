@@ -1,21 +1,48 @@
-body {
-  margin: 0px;
+* {
+  margin: 0;
+  padding: 0;
 }
 
-.section-hero {
-  height: 529px;
+.navigation {
+  height: 5vh;
+  background: white;
 }
 
-.section-input {
-  background: #6327AD;
-  width: 934px;
-  height: 104px;
-  position: absolute;
-  top: 480px;
-  margin: 0 243px;
+.container-nav {
+  width: 955px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
 }
 
-.section-statistic{
-  height: 500px;
-  background: grey;
+.main {
+  height: 95vh;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background: #f3f2ef; 
+}
+
+.container-main {
+  width: 955px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+}
+
+.section-profile {
+  background: white;
+  height: 300px;
+  width: 224px;
+}
+
+.section-feed{
+  background: white;
+  height: 300px;
+  width: 425px;
+}
+
+.section-ads{
+  background: white;
+  height: 300px;
+  width: 263px;
 }
